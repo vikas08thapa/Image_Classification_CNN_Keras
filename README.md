@@ -40,7 +40,7 @@
 
 # step 4 Testing
 * Put the data under validation directory
-* change the * img_width, img_height = 28, 28* according to your image width and height
+* change the *img_width, img_height = 28, 28* according to your image width and height
 * run `$ python Testing.py`
 
 
