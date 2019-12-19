@@ -32,6 +32,7 @@
 
 # Step 3 Training
 
+* Download mnist data from **http://yann.lecun.com/exdb/mnist/** or use any other dataset
 * Put the images in DATA folder and chanage the training.py parameters *img_width, img_height = 28, 28* change the width and height according to image.
 
 * classes_num = 10 *change according to your classes here its for mnist hence its 10*
@@ -41,3 +42,5 @@
 * Put the data under validation directory
 * change the * img_width, img_height = 28, 28* according to your image width and height
 * run `$ python Testing.py`
+
+
