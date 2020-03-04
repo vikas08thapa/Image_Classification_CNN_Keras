@@ -43,6 +43,6 @@
 * change the *img_width, img_height = 28, 28* according to your image width and height
 * run `$ python Testing.py`
 
-* If need any more clarification please contact me at **bm18reesch11017@iith.ac.in**
+* If need any more clarification please contact me at **bm18resch11017@iith.ac.in**
 
 
